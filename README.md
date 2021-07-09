@@ -1,1 +1,1 @@
-# Pytorch-Trainer
+# Pytorch-Trainer Light Weight
